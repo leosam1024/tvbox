@@ -1,0 +1,22 @@
+{
+  "drives": [
+    {
+      "name": "自用软路由",
+      "server": "http://192.168.31.31:9999/",
+      "user": "root",
+      "pass": "root"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "影視庫",
+      "server": "https://esir.eu.org/dav",
+      "user": "alist",
+      "pass": "alist"
+    }
+  ]
+}
